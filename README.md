@@ -16,3 +16,5 @@ exposing a real credential to do it.
 
 This repository has no dependents and no history worth keeping. Delete it once the
 rollout is signed off.
+
+<!-- rescan trigger 2026-11-25T17:06:06Z -->
